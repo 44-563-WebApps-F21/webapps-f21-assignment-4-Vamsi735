@@ -12,8 +12,11 @@ color: black;font-family: 'Franklin Gothic medium', Arial, sans-serif; size: 1.4
     background-color: tan;
 }
 .lord_illingworth{
-    color: brown;
+    color: pink
 }
 .gerald{
-    color: violet
+    color: violet 
+}
+.table, th, td{
+    border: 1px solid red; color: rgb(150, 143, 160); text-align: center; padding: 01em; margin: 0em;
 }
